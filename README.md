@@ -1,1 +1,1 @@
-# Eloquent-JavaScript-Vietnamese-Edition
+# Eloquent JavaScript Vietnamese Edition
